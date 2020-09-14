@@ -5,7 +5,7 @@
 import math
 
 def square_root(a: float) -> float:
-    a = input('Veullez entrée un nombre')
+    a = input('Veullez entrée un nombre: ')
     
     
     
