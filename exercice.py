@@ -6,7 +6,8 @@ import math
 
 def square_root(a: float) -> float:
     a = input('Veullez entrée un nombre: ')
-    b = a**
+    b = a**1/2
+    
     
     
     return 0.0
