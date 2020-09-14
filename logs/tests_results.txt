@@ -15,7 +15,7 @@ Traceback (most recent call last):
   File "test_exercice.py", line 16, in <listcomp>
     output = [exercice.square_root(v) for v in values]
   File "/home/runner/work/c04-ch3-exercices-HaidMoha/c04-ch3-exercices-HaidMoha/exercice.py", line 8, in square_root
-    a = input('Veullez entrée un nombre')
+    a = input('Veullez entrée un nombre: ')
 EOFError: EOF when reading a line
 
 ======================================================================
